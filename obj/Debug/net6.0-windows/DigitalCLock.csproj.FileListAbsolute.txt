@@ -1,0 +1,17 @@
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\bin\Debug\net6.0-windows\DigitalCLock.exe
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\bin\Debug\net6.0-windows\DigitalCLock.deps.json
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\bin\Debug\net6.0-windows\DigitalCLock.runtimeconfig.json
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\bin\Debug\net6.0-windows\DigitalCLock.dll
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\bin\Debug\net6.0-windows\DigitalCLock.pdb
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.csproj.AssemblyReference.cache
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.Form1.resources
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.csproj.GenerateResource.cache
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.AssemblyInfoInputs.cache
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.AssemblyInfo.cs
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.csproj.CoreCompileInputs.cache
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.dll
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\refint\DigitalCLock.dll
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.pdb
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\DigitalCLock.genruntimeconfig.cache
+C:\Users\szaba\OneDrive\Asztali gép\ToGithub\Asp-Net-Core\DigitalCLock\DigitalCLock\obj\Debug\net6.0-windows\ref\DigitalCLock.dll
